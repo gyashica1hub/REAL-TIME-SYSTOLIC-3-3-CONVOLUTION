@@ -128,4 +128,3 @@ python main.py
 ## 👩‍💻 Author
 
 Developed for educational and experimental purposes, combining **computer vision** with **hardware-inspired algorithm design**.
-

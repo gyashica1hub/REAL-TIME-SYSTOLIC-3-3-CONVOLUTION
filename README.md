@@ -129,6 +129,3 @@ python main.py
 
 Developed for educational and experimental purposes, combining **computer vision** with **hardware-inspired algorithm design**.
 
----
-
-⭐ If you found this useful, consider extending it into a CNN or hardware accelerator project!
